@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/*header*/
+
+header div {
+    width: 100%;
+    background-color: #0a2ff1;
+    height: 20px;
+}
+
+
+/*body*/
+
+.noviembre {
+    color: #0a2ff1;
+    padding: 20px;
+    font-size: 50pt;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.black {
+    width: 100%;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.friday {
+    font-size: 163pt;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 100px;
+}
+
+
+h1 {
+    font-size: 148pt;
+    color: #fff;
+
+}
+
+h4 b {
+    font-size: 36pt;
+    font-family: 'Montserrat', sans-serif;
+    color: #0a2ff1;
+}
+
+h4 {
+    font-size: 36pt;
+    color: #0a2ff1;
+    font-family: 'Montserrat', sans-serif;
+}
+
+strong {
+    background-color: black;
+    color: #fff;
+    font-size: 45pt;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 44pt;
+    font-weight: 300;
+    color: #0a2ff1;
+}
+
+.descuentos {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    width: 100%;
+    background-color: #0a2ff1;
+    height: 20px;
+    position: absolute;
+
+}
