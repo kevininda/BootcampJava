@@ -6,7 +6,9 @@
 }
 
 
-
+input:focus{
+    background-color: aquamarine;
+}
 header {
     width: 100%;
     background-color: #04146c;
